@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+.vsconfig
+
+.idea/.idea.Minions.dir/.idea/
+
+.idea/
+
+*.user
